@@ -1,7 +1,7 @@
 # Life Dev
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+[![C++](https://img.shields.io/badge/-C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 
-Productivity solver for task and time management.
+Productivity solver for task and time management
 
 ## Focus
 - **Primary:** time management + skill development
